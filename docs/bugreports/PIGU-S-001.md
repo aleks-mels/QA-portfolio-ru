@@ -65,20 +65,29 @@ P2 — Medium
 ## **Attachments**
 90 найденных товаров, фильтр "Найденные товары"
 
-![sorting-menu](./img/PIGU-S-001-01.jpg)
+90 найденных товаров, фильтр "Найденные товары"
+
+![sorting-menu](./img/PIGU-S-001-01.jpg?raw=1)
 
 Пагинация отсутствует
 
-![sorting-menu](./img/PIGU-S-001-02.jpg)
+![sorting-menu](./img/PIGU-S-001-02.jpg?raw=1)
 
-На странице представлено 59 товаров ![sorting-menu](./img/PIGU-S-001-03.jpg) ![sorting-menu](./img/PIGU-S-001-04.jpg)
+На странице представлено 59 товаров
+
+![sorting-menu](./img/PIGU-S-001-03.jpg?raw=1)
+
+![sorting-menu](./img/PIGU-S-001-04.jpg?raw=1)
+
+(это два больших скрина)
 
 Тот же запрос с фильтром "Самые дешевые наверху"
 
-![sorting-menu](./img/PIGU-S-001-05.jpg)
+![sorting-menu](./img/PIGU-S-001-05.jpg?raw=1)
 
 Пагинация присутствует
 
-![sorting-menu](./img/PIGU-S-001-06.jpg)
+![sorting-menu](./img/PIGU-S-001-06.jpg?raw=1)
+
 
 

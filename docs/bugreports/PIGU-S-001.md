@@ -67,9 +67,12 @@ P2 — Medium
 ![sorting-menu](./img/PIGU-S-001-01.jpg)
 Пагинация отсутствует
 ![sorting-menu](./img/PIGU-S-001-02.jpg)
-На странице представлено 59 товаров
-![sorting-menu](./img/PIGU-S-001-03.jpg)
-![sorting-menu](./img/PIGU-S-001-04.jpg)
+<p align="left">
+  <img src="./img/PIGU-S-001-03.jpg" alt="sorting-menu" width="100%">
+</p>
+<p align="left">
+  <img src="./img/PIGU-S-001-04.jpg" alt="sorting-menu" width="100%">
+</p>
 Тот же запрос с фильтром "Самые дешевые наверху"
 ![sorting-menu](./img/PIGU-S-001-05.jpg)
 Пагинация присутствует

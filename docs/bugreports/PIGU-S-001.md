@@ -64,6 +64,6 @@ P2 — Medium
 
 ## **Attachments**
 Пример:
-![sorting-menu](./screenshots/pigu_sorting_dropdown.png)
-![missing-pagination](./screenshots/pigu_no_pagination.png)
+![sorting-menu](./img/PIGU-S-001-01.jpg)
+![missing-pagination](./img/PIGU-S-001-02.jpg)
 

@@ -49,4 +49,4 @@ P2 — Medium
 
 ## Attachments
 
-![sorting-menu](./img/TEGA-D-001.jpg?raw=1)
+![sorting-menu](./img/TEGA-D-001-01.jpg?raw=1)

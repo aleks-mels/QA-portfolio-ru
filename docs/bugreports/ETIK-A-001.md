@@ -69,4 +69,4 @@ P1 — High
 ---
 
 ## Attachments
-
+![admin](./img/ETIK-A-001.jpg?raw=1)

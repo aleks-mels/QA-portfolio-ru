@@ -3,7 +3,8 @@
 # Тестовая документация
 - [Баг-репорты](docs/bugreports/README.md)
   
-<!-- [Тест-кейсы](docs/testcases/README.md)
+[Тест-кейсы](docs/testcases/README.md)
+<!--
 - [Чек-листы](docs/checklists/README.md)
 - [Анализ требований](docs/requirements/README.md)
 -->
